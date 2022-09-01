@@ -1,8 +1,11 @@
 # Repositório criado para armazenamento dos arquivos utilizados no programa DevOps Cloud Week da Cloud Treinamentos.
 
-Os textos abaixo são do README de um aplicativo em react que disponibiliza as estatísticas do covid
+Futuramente irei organizar os passos realizados para automatização dos processos.
+O curso ainda está em andamento.
 
 ----------------------------------------------------------------------------
+
+Os textos abaixo são do README de um aplicativo em react que disponibiliza as estatísticas do covid
 
 ## Installation
 - git clone https://github.com/sambreen27/covid19.git
