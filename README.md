@@ -1,6 +1,7 @@
 # Repositório criado para armazenamento dos arquivos utilizados no programa DevOps Cloud Week da Cloud Treinamentos.
 
 Futuramente irei organizar os passos realizados para automatização dos processos e também as ferramentas utilizadas.
+
 OBS: O curso ainda está em andamento.
 
 ----------------------------------------------------------------------------
