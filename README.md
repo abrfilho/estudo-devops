@@ -1,4 +1,8 @@
-Um aplicativo em react que trás as statisticas do covid.
+# Repositório criado para armazenamento dos arquivos utilizados no programa DevOps Cloud Week da Cloud Treinamentos.
+
+----------------------------------------------------------------------------
+
+Os textos abaixo são do README de um aplicativo em react que disponibiliza as estatísticas do covid
 
 ## Installation
 - git clone https://github.com/sambreen27/covid19.git
@@ -34,5 +38,3 @@ API provided by: https://github.com/mathdroid/covid-19-api
 - ![Global Data](https://github.com/sambreen27/covid19/blob/master/src/images/covid1.png) 
 ![Global Data](https://github.com/sambreen27/covid19/blob/master/src/images/covid2.png) 
 ![Specific Country Data](https://github.com/sambreen27/covid19/blob/master/src/images/covid3.png)
-
-Teste de versionamento 
